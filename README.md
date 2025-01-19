@@ -9,7 +9,7 @@ I’m diving deeper into *machine learning, **deep learning, and **predictive mo
 
 ### 💬 Ask Me About  
 - *Data science* & analytics  
-- *Public speaking* & event management (I represented Afghanistan in MUN 🌏)  
+- *Public speaking* & event management 
 - My experience as an *international student*  
 
 ### ⚡ Fun Fact  
