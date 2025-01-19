@@ -16,7 +16,7 @@ I’m diving deeper into *machine learning, **deep learning, and **predictive mo
 When I'm not coding, you'll find me playing badminton 🏸, binge-watching series 📺, or crying over fictional characters.
 
 ### 📫 How to Reach Me  
-Connect with me on *[LinkedIn](https://www.linkedin.com/in/saher-thekedar)* or [Email](thekedarsaher@gmail.com). I’m excited to collaborate on data science projects, AI/ML models, or any innovative ventures. Let’s build something impactful together.
+Connect with me on *[LinkedIn](https://www.linkedin.com/in/saherthekedar)* or [Email](thekedarsaher@gmail.com). I’m excited to collaborate on data science projects, AI/ML models, or any innovative ventures. Let’s build something impactful together.
 
 
 <!--
